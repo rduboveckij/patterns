@@ -1,4 +1,4 @@
-package com.rduboveckij.edu.patterns.gof.structural;
+package com.rduboveckij.edu.patterns.gof.creational;
 
 import java.util.HashMap;
 import java.util.Map;
